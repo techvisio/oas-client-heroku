@@ -219,7 +219,7 @@ CommonModule = __decorate([
 // The file contents for the current environment will overwrite these during build.
 var environment = {
     production: false,
-    serverURL: "http://localhost:3000/"
+    serverURL: "https://quiz-api-techvisio.herokuapp.com/"
 };
 //# sourceMappingURL=environment.js.map
 
